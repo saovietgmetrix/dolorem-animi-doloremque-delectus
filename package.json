@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@saovietgmetrix/dolorem-animi-doloremque-delectus",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/saovietgmetrix/dolorem-animi-doloremque-delectus.git"
   },
   "dependencies": {
+    "@saovietgmetrix/voluptatibus-soluta-mollitia-culpa": "^1.0.0",
+    "@saovietproject/voluptas-doloremque-nostrum-facere": "^1.0.0"
   }
 }
